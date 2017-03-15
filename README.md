@@ -1,5 +1,5 @@
 # Behavioral-Cloning
-End-to-end driving in a simulator using a convolutional neural network.  
+End-to-end driving in a simulator using a convolutional neural network. Please refer to `writeup_report.md` for a detailed discussion about the project.  
 
 
 Overview
